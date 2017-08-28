@@ -2,7 +2,6 @@
 // Utilities
 // --------------------------------------------------
 
-@import "utilities/sample";
 @import "utilities/functions";
 @import "utilities/mixins";
 
@@ -29,7 +28,8 @@
 // Components
 // --------------------------------------------------
 
-@import "components/sample";
+@import "components/page-header";
+@import "components/page-footer";
 
 //
 // Themes
